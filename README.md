@@ -1,8 +1,7 @@
 # expressify-koa
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/HiFaraz/expressify-koa.svg)](https://greenkeeper.io/)
-
 [![Build Status][travis-image]][travis-url]
+[![Greenkeeper badge][greenkeeper-image]][greenkeeper-url]
 
 Expressify Koa is a simple converter that lets you use Koa 2.x middleware in Express.
 
@@ -115,5 +114,7 @@ The lead author is [Faraz Syed](https://github.com/HiFaraz).
 
 [MIT](LICENSE)
 
+[greenkeeper-image]: https://badges.greenkeeper.io/HiFaraz/expressify-koa.svg
+[greenkeeper-url]: https://greenkeeper.io/
 [travis-image]: https://travis-ci.org/HiFaraz/expressify-koa.svg?branch=master
 [travis-url]: https://travis-ci.org/HiFaraz/expressify-koa
