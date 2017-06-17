@@ -1,5 +1,7 @@
 # expressify-koa
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/HiFaraz/expressify-koa.svg)](https://greenkeeper.io/)
+
 [![Build Status][travis-image]][travis-url]
 
 Expressify Koa is a simple converter that lets you use Koa 2.x middleware in Express.
